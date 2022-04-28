@@ -1,0 +1,16 @@
+# Please consult the following guide before sending code review requests:
+# https://chromium.googlesource.com/chromiumos/platform/tast/+/HEAD/docs/code_reviews.md
+
+# Prefer tast-owners@ to individual owners. Sending code reviews to the alias
+# allows the owners to distribute code review loads.
+tast-owners@google.com
+
+dbeckett@chromium.org
+hidehiko@chromium.org
+jessemcguire@google.com
+kathrelkeld@chromium.org
+nya@chromium.org
+oka@chromium.org
+seewaifu@google.com
+yamaguchi@chromium.org
+yichiyan@google.com
